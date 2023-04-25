@@ -18,3 +18,26 @@ The value of strs would be "Hello \n How are you" and then after the path it wou
 
 ## Part 2
 
+![Image](arrayexamples.png)
+
+This is the bug I chose.
+
+![Image](failuretest.png)
+
+This input will result in the correct output.
+
+![Image](non-failuretest.png)
+
+This input will result in the wrong output.
+
+![Image](output.png)
+
+This is what happens when you run these JUnit tests.
+
+![Image](fixedarray.png)
+
+This is the fixed code. To fix the bug you have to swap arr and newArray in the for-loop. This fixes the bug because before it was adding the elements of newArray into arr. This doesn't work because the elements of newArray are null since it was just created. You have to add the elements of arr into newArray so you accurately make a reversed copy.
+
+## Part 3
+
+I learned how I can use paths to do certain tasks on a website I create. I find it useful to know how different companies implement search and creating new strings and other things with paths on their URLs. I also find the get methods for different parts of a URL useful and that is something else I learned.
