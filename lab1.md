@@ -14,8 +14,8 @@
 ![Image](vscodeinterface.png)
 
 1. Open Visual Studio Code and it should look like the image above
-2. Click the Terminal tab at the top and click New Teriminal
-3. Go to [Account Looku0](https://sdacs.ucsd.edu/~icc/index.php)
+2. Click the Terminal tab at the top and click New Terminal
+3. Go to [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
 4. Type in your Username and and PID
 5. Under Additional Accounts it should say your cs15l account username
 6. If you don't have a password set then click the link in the yellow box and follow those instructions
@@ -28,7 +28,7 @@
 13. Also if you just set up your password you may have to wait up to 30 minutes for the system to update so keep that in mind
 14. If all went well you should get a message that says this
 
-![Image](terminal.png)
+![Image](terminal2.0.png)
 
 15. Keep in mind that you might have multiple password attempts which is why my terminal says a bunch of failed password attempts
 
@@ -36,13 +36,13 @@
 
 1. Now that you are logged in you can type `clear` into you terminal just so it's not so messy
 2. You should try typing some of the commands below
-* `cd ~`
-* `cd`
-* `ls -lat`
-* `ls -a`
-* `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lsp23/cs15lsp23abc`, where the abc is one of the other group members’ username
-* `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
-* `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+* `cd ~` (change working directory to home directory)
+* `cd` (change working directory to first argument entered)
+* `ls -lat` (list of files sorted by date)
+* `ls -a` (lists everything including things that start with .)
+* `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lsp23/cs15lsp23abc`, where the abc is one of the other group members’ username (lists files in that directory)
+* `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/` (makes a copy of that file)
+* `cat /home/linux/ieng6/cs15lsp23/public/hello.txt` (prints out contents of that file)
 3. This is an example of some of the commands and what they do
 
 ![Image](commands.png)
