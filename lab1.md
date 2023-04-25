@@ -30,7 +30,7 @@
 
 ![Image](terminal2.0.png)
 
-15. Keep in mind that you might have multiple password attempts which is why my terminal says a bunch of failed password attempts
+15. Keep in mind that you might have multiple password attempts
 
 ## Running Some Commands
 
