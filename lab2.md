@@ -36,7 +36,7 @@ This is what happens when you run these JUnit tests.
 
 ![Image](fixedarray.png)
 
-This is the fixed code. To fix the bug you have to swap arr and newArray in the for-loop. This fixes the bug because before it was adding the elements of newArray into arr. This doesn't work because the elements of newArray are null since it was just created. You have to add the elements of arr into newArray so you accurately make a reversed copy.
+This is the fixed code. To fix the bug you have to swap `arr` and `newArray` in the for-loop. This fixes the bug because before it was adding the elements of `newArray` into `arr`. This doesn't work because the elements of `newArray` are `null` since it was just created. You have to add the elements of `arr` into `newArray` so you accurately make a reversed copy.
 
 ## Part 3
 
