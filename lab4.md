@@ -38,7 +38,7 @@ Keys pressed:
 
 `git clone <command + v> <enter>`
 
-I cloned the repository using the git clone command. I copied the url of my forked lab7. I then typed the git clone command and pasted the url to run it.
+I cloned the repository using the git clone command, which put added lab7 to my ieng6 server. I copied the url of my forked lab7. I then typed the git clone command and pasted the url to run it.
 
 ## Step 6
 
