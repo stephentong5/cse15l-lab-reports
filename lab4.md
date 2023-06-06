@@ -22,9 +22,7 @@ Keys pressed:
 
 `ssh cs15lsp23dh@ieng6.ucsd.edu <enter>`
 
-`************ <enter>` (* for my password)
-
-I logged into ieng6 using the ssh command with my specific email. I then typed in my password when prompted to confirm it was me.
+I logged into ieng6 using the ssh command with my specific email. I didn't have to type in my password since I set up SSH keys for ieng6.
 
 ## Step 5
 
