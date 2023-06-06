@@ -14,7 +14,7 @@ I'm expecting the see the terminal print out each argument with an exclamation p
 
 **Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line argumehts, working directory, even the last few commands you ran. Do your best to provide as much context as you can**
 
-![Image](bug.png)
+![Image](bugs.png)
 
 ![Image](bugrunner.png)
 
