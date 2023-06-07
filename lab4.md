@@ -16,7 +16,7 @@ Start the timer
 
 Log into ieng6
 
-![Image](step4.png)
+![Image](fixedstep4.png)
 
 Keys pressed:
 
@@ -28,15 +28,15 @@ I logged into ieng6 using the ssh command with my specific email. I didn't have 
 
 Clone the fork of lab7
 
-![Image](step5.png)
+![Image](fixedstep5.png)
 
 Keys pressed: 
 
-`<command + c>` (copying the url)
+`<command + c>` (copying the ssh link)
 
 `git clone <command + v> <enter>`
 
-I cloned the repository using the git clone command, which put added lab7 to my ieng6 server. I copied the url of my forked lab7. I then typed the git clone command and pasted the url to run it.
+I cloned the repository using the git clone command, which put added lab7 to my ieng6 server. I copied the ssh link of my forked lab7. I then typed the git clone command and pasted the ssh link to run it.
 
 ## Step 6
 
@@ -94,7 +94,7 @@ I used the terminal command history and went back four commands using the up arr
 
 Commit and push this change
 
-![Image](step9.png)
+![Image](fixedstep9.png)
 
 Keys pressed:
 
@@ -104,8 +104,4 @@ Keys pressed:
 
 `git push <enter>`
 
-`stephentong5 <enter>`
-
-`********* <enter>` (* for password)
-
-I used git add to add ListExamples.java to the changes, since that was the only file edited. I then used git commit -m to commit these changes with a message. The message is the name of the commit which I called update. I then used git push to push this commit to my GitHub account. It prompted me for my username which I entered and then for my password which I entered. It then successfully pushed the changes.
+I used git add to add ListExamples.java to the changes, since that was the only file edited. I then used git commit -m to commit these changes with a message. The message is the name of the commit which I called update. I then used git push to push this commit to my GitHub account. It then successfully pushed the changes.
